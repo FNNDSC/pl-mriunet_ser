@@ -142,6 +142,6 @@ Mode 2 (predict):
 
 Trouble shooting
 ----------------
-1. Make sure that the *output directory* is world writable. You can do it by ```chmod 777 <output dir>```.
+1. Make sure that the *output directory* is world writable. You can do it by ``chmod 777 <output dir>``.
 
 2. Try to remove the ``.DS_store`` file in the input directory.
